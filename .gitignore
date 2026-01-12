@@ -1,0 +1,47 @@
+# Flutter/Dart
+build/
+*.dart_tool/
+*.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.env
+.env.*
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Others
+*.log
+*.bak
+*.tmp
+
+# Sensitive files
+config.json
+secrets.json
+*.pem
+*.key
+*.crt
+*.db
