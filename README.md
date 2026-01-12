@@ -1,8 +1,6 @@
 # 🛒 e_commerce_with_chatbot-demo
 
-![Demo](chatbot.gif)
-![Demo](product.gif)
-![Demo](review.gif)
+<img src="chatbot.gif" width="300"/> <img src="product.gif" width="300"/> <img src="review.gif" width="300"/>
 
 > Demo showcasing product listing, review, and AI-powered chatbot search flow.
 
