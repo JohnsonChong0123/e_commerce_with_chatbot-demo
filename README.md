@@ -5,7 +5,7 @@
 > Demo showcasing product listing, review, and AI-powered chatbot search flow.
 
 A **Flutter E-Commerce Demo App** designed with **Clean Architecture** and **BLoC state management**, featuring an **AI-powered chatbot** for natural language product search.  
-This project focuses on **architecture, maintainability, and scalability**.
+This project focuses on **architecture, maintainability, and scalability**. (partial code only be shared to avoid sharing sensitive information)
 
 ---
 
